@@ -1,0 +1,12 @@
+
+.rate{
+    background-color: green;
+    border: solid white 2px;
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 5px;
+}
+.pcolor{
+    color: rgb(71, 137, 5);
+}
